@@ -1,0 +1,126 @@
+{
+  "userInfos": [
+    {
+      "name": "Золжаргалын Баасанжаргал",
+      "profession": "Full-Stack Developer",
+      "hobbies": [
+        "Код бичих",
+        "Сагсан бөмбөг тоглох",
+        "Аялах",
+        "Морь болон Мотоцикл унах"
+      ],
+      "bio": "Хичээнгүй оюутан",
+      "photoUrl": "https://scontent.fuln2-2.fna.fbcdn.net/v/t39.30808-6/441243309_3255944784701943_6129326022677895171_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeH99EgFuWInpEh3KywjrLv_IPGLf_pSREkg8Yt_-lJESZLXFR5Sg03_-lzF16VZMxbhYP2_rhd7qFLlVwtWT9wg&_nc_ohc=as__cjdg1QQQ7kNvgGIzCii&_nc_ht=scontent.fuln2-2.fna&oh=00_AYClI6a35k7P3mTF-xMi89XqKOqgGn2oia7KWbuxDm8Gkg&oe=66B88ED0",
+      "social": "baaska.rk",
+      "id": "4591"
+    },
+    {
+      "name": "Цэрэн-Очирын Тэмүүлэн",
+      "profession": "ОБЕГ дарга",
+      "hobbies": [
+        "Аялах",
+        "Сагсанбөмбөг тоглох",
+        "Ном унших"
+      ],
+      "bio": "Цэкү гэж дууддаг.",
+      "photoUrl": "https://scontent.fuln2-2.fna.fbcdn.net/v/t39.30808-6/433427598_960015572419671_8171181405916421832_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFjgRZQ1mdJphMfgWxuRVWlfO39b4rGKrR87f1visYqtNT1qO7VHAI88l5cHyAOED6xLjPRx5-QZT8DgtuDtw3v&_nc_ohc=dyx9y58yFAMQ7kNvgERninK&_nc_ht=scontent.fuln2-2.fna&oh=00_AYAtxZyDXjERXWHYFzCniB-PFQFMNZg15vqjHgQMK6xRvA&oe=66A689EF",
+      "social": "__tsekuun",
+      "id": "0541"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Running",
+      "price": "$125",
+      "image": "./images/run.jpg"
+    },
+    {
+      "id": "3",
+      "name": "G.T. Jump 2",
+      "price": "$200",
+      "image": "./images/jump2.jpeg"
+    },
+    {
+      "id": "4",
+      "name": "Hiking Boots",
+      "price": "$80",
+      "image": "./images/hiking.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Kai Anta 1",
+      "price": "$125",
+      "image": "./images/kai1.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Curry 1 Low FloTro",
+      "price": "$150",
+      "image": "./images/curry1low.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Jordan Luka 1",
+      "price": "$110",
+      "image": "./images/luka1.webp"
+    },
+    {
+      "id": "2",
+      "name": "New Balance TWO WXY v3",
+      "price": "$120",
+      "image": "./images/newbalance.jpeg"
+    }
+  ],
+  "recentPosts": [
+    {
+      "id": "1",
+      "title": "USA basketball team",
+      "imgSrc": "./images/lebron.jpg",
+      "imgAlt": "lebron",
+      "content": "ЛеБрон Жэймс 39 насандаа ч шигшээ багийнхаа лидер нь байж төгсгөлийн 4 минут clutch үе тэнцүү тоглолтоос багийнхаа сүүлийн 11 оноог дараалан авж хожил авч байгаа нь үнэхээр гайхалтай юм👑👏🏼 АНУ-н шигшээ баг дэлхийн аваргууд Германыг хожиж 5-0 амжилттай олимпын өмнөх нөхөрсөг тоглолтуудаа дуусгалаа."
+    },
+    {
+      "id": "2",
+      "title": "TNT moving to Amazon",
+      "imgSrc": "./images/tnt.jpg",
+      "imgAlt": "lebronflag",
+      "content": "NBA-гийн зүгээс TNT телевиз Amazon-ы тавьсан саналтай тэнцсэн санал тавиагүй хэмээн үзэж 2025-26 улирлаас эхлэн Amazon-руу шилжихээр болсоноо зарлав. Удалгүй араас нь TNT бид тэнцүү санал тавьсан, NBA гэрээгээ зөрчиж байна, бид арга хэмжээ авах болно гээд зарлав 🫣 Шүүх хурлаар орох нь дээ. NBA бол Амазон руу шилжихийг угаасаа хүсээд байгөө. Inside the NBA нэвтрүүлгийг эс тооцвол тэр нь ч дээр биз…"
+    },
+    {
+      "id": "3",
+      "title": "Nuggets interesting Westbrook",
+      "imgSrc": "./images/westbrooktrade.jpg",
+      "imgAlt": "westbrooktrade",
+      "content": "Клипперс Уэстбрүүкийг сольж явуулж чадахгүй бол гэрээг нь худалдаж аваад чөлөөт агент болгохоос өөр аргагүй болно. Денвер Наггетс тэрийг л хүлээгээд байгаа бололтой"
+    }
+  ],
+  "content": {
+    "home": {
+      "title": "Сайн байна уу. ",
+      "description": "Дэлхий дахинд болж буй сагсан бөмбөгийн мэдээ мэдээллийг авахийг хүсвэл News хэсэгт байрлаж байгаа."
+    },
+    "about": {
+      "image": "https://assets.fiba.basketball/image/upload/w_640,h_360,c_fill,g_auto/q_auto/f_auto/ismgp9s3q5wvz0l3ahga",
+      "alt": "medee"
+    }
+  },
+  "users": [
+    {
+      "id": "61d6",
+      "email": "zbaasanjargal@yahoo.com",
+      "password": "leoconner12$",
+      "role": "admin",
+      "image": "/images/2.jpg",
+      "name": "Баасанжаргал"
+    },
+    {
+      "id": "aa49",
+      "email": "sdadw@gmail.com",
+      "password": "baaska0321",
+      "role": "user",
+      "image": "/images/2.jpg",
+      "name": "Золжаргал"
+    }
+  ]
+}
